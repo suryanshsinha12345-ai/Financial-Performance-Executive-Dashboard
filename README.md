@@ -46,12 +46,6 @@ The dashboard provides visual analysis of:
 
 ---
 
-## 🖼️ Dashboard Preview
-
-![Financial Performance Executive Dashboard](dashboard-screenshot.png)
-
----
-
 ## 🛠️ Tools & Skills
 
 - Power BI
