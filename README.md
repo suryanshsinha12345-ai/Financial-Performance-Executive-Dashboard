@@ -3,7 +3,7 @@ Interactive Power BI executive dashboard analyzing revenue, profitability, cash 
 
 # Financial Performance Executive Dashboard
 
-## 📌 Overview
+## Overview
 
 An interactive Power BI executive dashboard designed to provide a consolidated view of financial performance across revenue, profitability, cash flow, budget variance, products/services, and regions.
 
@@ -11,7 +11,7 @@ The dashboard enables users to explore financial performance using interactive f
 
 ---
 
-## 📊 Key KPIs
+## Key KPIs
 
 - **Total Revenue:** 24M
 - **Gross Margin:** 45.5%
@@ -20,7 +20,7 @@ The dashboard enables users to explore financial performance using interactive f
 
 ---
 
-## 🎛️ Interactive Filters
+## Interactive Filters
 
 The dashboard includes filters for:
 
@@ -32,7 +32,7 @@ The dashboard includes filters for:
 
 ---
 
-## 📈 Dashboard Analysis
+## Dashboard Analysis
 
 The dashboard provides visual analysis of:
 
@@ -46,7 +46,7 @@ The dashboard provides visual analysis of:
 
 ---
 
-## 🛠️ Tools & Skills
+## Tools & Skills
 
 - Power BI
 - DAX
@@ -58,13 +58,13 @@ The dashboard provides visual analysis of:
 
 ---
 
-## 📂 Project Files
+##  Project Files
 
 - `Financial_Performance_Executive_Dashboard.pbix` — Power BI dashboard
 - `dashboard-screenshot.png` — Dashboard preview
 
 ---
 
-## 🎯 Objective
+## Objective
 
 To present financial performance through an executive-level dashboard that makes key financial metrics, trends, regional performance, budget variance, and cash-flow movements easier to analyze.
